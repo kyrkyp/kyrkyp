@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyriakos Kypraios.
 - 👀 I’m interested in learning coding alongside with others.
-- 🌱 I’m currently learning how to use Javascript, HTML and CSS.
+- 🌱 I’m currently working as Junior .Net Backend Developer on a site called OPSKE.
 - 💞️ I’m looking to collaborate on web app bilding.
 - 📫 How to reach me : Simply mail me.
 
